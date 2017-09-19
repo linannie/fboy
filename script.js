@@ -67,7 +67,10 @@ var quotes = [
 	"just wanted to mess around with you.",
 	"is just an unimportant blob.",
 	"should be NONEXISTENT to you.",
-	"sucks ass."
+	"sucks ass.",
+	"stepped all over you.",
+	"pulled out your heart, threw it on the ground, and stomped on it."
+
 
 ]
 
