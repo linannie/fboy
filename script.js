@@ -21,7 +21,7 @@ var quotes = [
 	"doesn't deserve you AT ALL.",
 	"is really shitty.",
 	"is a lowlife.",
-	"an actual piece of poo. 💩",
+	"is an actual piece of poo. 💩",
 	"can go eat some dirt.",
 	"is only using you.",
 	"doesn't realize how great you are.",

@@ -71,3 +71,24 @@ p{
 #screw:focus{
 	outline: 0;
 }
+.bounce {
+	text-align: center;
+  position: relative;
+  font-size: 50px;
+  left:50%;
+  bottom:0;
+ margin-top: 10px;
+  margin-left:-25px;
+  height:50px;
+  width:50px;
+
+
+  -webkit-animation:bounce 1s infinite;
+}
+
+@-webkit-keyframes bounce {
+  0%       { bottom:5px; }
+  25%, 75% { bottom:15px; }
+  50%      { bottom:20px; }
+  100%     {bottom:0;}
+}
