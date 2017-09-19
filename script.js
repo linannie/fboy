@@ -7,7 +7,7 @@ var quotes = [
 	"is blind.",
 	"is a true asshole.",
 	"is an extreme disappoinment to humanity.",
-	"is stupid",
+	"is stupid.",
 	"can eat a pile of poo",
 	"is holding you back from progressing forward.",
 	"really missed out BIG TIME.",
@@ -39,10 +39,20 @@ var quotes = [
 	"is a pathetic little wimp.",
 	"not the right person to be with.",
 	"is a fuckboy. do re mi fa so fucking done with you boy.",
-	"is a boy.",
+	"is a little boy.",
 	"is crazy.",
 	"be playin games with you.",
-	"is the worst."
+	"is the worst.",
+	"doesn't give a frick about you.",
+	"can't fuck with you because you're a BADASSSSSS 😉",
+	"is a stupid hoe.",
+	"plays too many damn games.",
+	"made you just an option, so forget about him.",
+	"is totally not good enough for you.",
+	"is way out of your league",
+	"only thinks with his 🍆.",
+	"is not that into you.",
+	"is NOT going to make you happy."
 
 ]
 
