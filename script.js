@@ -8,7 +8,7 @@ var quotes = [
 	"is a true asshole.",
 	"is an extreme disappoinment to humanity.",
 	"is stupid.",
-	"can eat a pile of poo",
+	"can eat a pile of poo.",
 	"is holding you back from progressing forward.",
 	"really missed out BIG TIME.",
 	"is dumb.",
@@ -49,15 +49,24 @@ var quotes = [
 	"plays too many damn games.",
 	"made you just an option, so forget about him.",
 	"is totally not good enough for you.",
-	"is way out of your league",
+	"is way out of your league.",
 	"only thinks with his 🍆.",
 	"is not that into you.",
 	"is NOT going to make you happy.",
 	"doesn't realize how cool 😎 you are!",
 	"is just a thing you need to forget.",
 	"is a fool. Fly, you fools!",
-	"has probably lied to you many times."
-	
+	"has probably lied to you many times.",
+	"took advantage of you.",
+	"is a piece of dust, too little to occupy your thoughts. Time to clean!",
+	"doesn't take time to get to know you.",
+	"treats you like shit. Stop spending time on people who don't care about you.",
+	"is super disrespectful to you!",
+	"is really insecure.",
+	"just has a bunch of issues you shouldn't have to deal with.",
+	"just wanted to mess around with you.",
+	"is just an unimportant blob."
+
 ]
 
 function newQuote(){
