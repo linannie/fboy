@@ -68,8 +68,14 @@ var quotes = [
 	"is just an unimportant blob.",
 	"should be NONEXISTENT to you.",
 	"sucks ass.",
-	"stepped all over you.",
-	"pulled out your heart, threw it on the ground, and stomped on it."
+	"stepped all over you 😕.",
+	"pulled out your heart, threw it on the ground, and stomped on it.",
+	"is not an honest person.",
+	"makes you sad. Why do you want him?",
+	"makes you feel shitty.",
+	"makes you feel like you did something wrong, but you didn't.",
+	"makes you wait.",
+	"makes you frustrated all the time."
 
 
 ]
