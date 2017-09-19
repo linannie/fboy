@@ -65,7 +65,9 @@ var quotes = [
 	"is really insecure.",
 	"just has a bunch of issues you shouldn't have to deal with.",
 	"just wanted to mess around with you.",
-	"is just an unimportant blob."
+	"is just an unimportant blob.",
+	"should be NONEXISTENT to you.",
+	"sucks ass."
 
 ]
 
