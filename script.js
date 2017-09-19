@@ -32,12 +32,12 @@ var quotes = [
 	"ain't shit.",
 	"is a horrible horrible horrible person.",
 	"is incredibly immature.",
-	"messed with your mind. Drop him NOW.",
+	"messed with your head. Drop him NOW.",
 	"is someone you need to STOP thinking about.",
 	"is actually a clown. He's IT.",
 	"hurt you.",
 	"is a pathetic little wimp.",
-	"not the right person to be with.",
+	"is not the right person to be with.",
 	"is a fuckboy. do re mi fa so fucking done with you boy.",
 	"is a little boy.",
 	"is crazy.",
@@ -52,8 +52,12 @@ var quotes = [
 	"is way out of your league",
 	"only thinks with his 🍆.",
 	"is not that into you.",
-	"is NOT going to make you happy."
-
+	"is NOT going to make you happy.",
+	"doesn't realize how cool 😎 you are!",
+	"is just a thing you need to forget.",
+	"is a fool. Fly, you fools!",
+	"has probably lied to you many times."
+	
 ]
 
 function newQuote(){
