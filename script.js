@@ -36,8 +36,13 @@ var quotes = [
 	"is someone you need to STOP thinking about.",
 	"is actually a clown. He's IT.",
 	"hurt you.",
-	"is a pathetic little wimp"
-
+	"is a pathetic little wimp.",
+	"not the right person to be with.",
+	"is a fuckboy. do re mi fa so fucking done with you boy.",
+	"is a boy.",
+	"is crazy.",
+	"be playin games with you.",
+	"is the worst."
 
 ]
 
