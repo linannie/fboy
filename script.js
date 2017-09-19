@@ -21,11 +21,23 @@ var quotes = [
 	"doesn't deserve you AT ALL.",
 	"is really shitty.",
 	"is a lowlife.",
-	"an actual piece of poo. ",
+	"an actual piece of poo. 💩",
 	"can go eat some dirt.",
 	"is only using you.",
 	"doesn't realize how great you are.",
-	"is leading you a step closer to the right guy."
+	"is leading you a step closer to the right guy.",
+	"led you on.",
+	"pretends to genuinely like you.",
+	"is screwing you over.",
+	"ain't shit.",
+	"is a horrible horrible horrible person.",
+	"is incredibly immature.",
+	"messed with your mind. Drop him NOW.",
+	"is someone you need to STOP thinking about.",
+	"is actually a clown. He's IT.",
+	"hurt you.",
+	"is a pathetic little wimp"
+
 
 ]
 

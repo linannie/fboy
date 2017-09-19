@@ -49,6 +49,7 @@ p{
 	font-size: 50px;
 	color: #9E1D66;
 	margin-top: -30px;
+	font-weight: bold;
 }
 #button{
 	text-align: center;
@@ -57,6 +58,7 @@ p{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	text-decoration: none;
 	font-size: 30px;
+	font-weight: bold;
 	color: white;
 	border: none;
 	background-color: #FEB4D9;
