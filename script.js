@@ -75,7 +75,9 @@ var quotes = [
 	"makes you feel shitty.",
 	"makes you feel like you did something wrong, but you didn't.",
 	"makes you wait.",
-	"makes you frustrated all the time."
+	"makes you frustrated all the time.",
+	"is trash.",
+	"is toxic."
 
 
 ]
