@@ -6,8 +6,8 @@
 }
 
 body{
-
-	background-color: #FB288B;
+	background-color: #FEB4D9;
+	/*background-color: #FB288B;*/
 }
 
 h1{
@@ -20,15 +20,12 @@ h1{
 .word{
 	margin-top: -90px;
 	position: fixed;
-	left: 400px;
+	left: 410px;
 	
 }
 
-#noun, #word{
-	font-family: "Lora", serif;
-}
 #word{
-	font-family: "Lora", serif;
+
 	font-size: 30px;
 	font-weight: bold;
 	color: #9E1D66;
@@ -36,4 +33,39 @@ h1{
 }
 p{
 	line-height: 0px;	
+}
+
+.quote{
+	padding-top: 0.5px;
+	
+}
+
+#he{
+	text-align: center;
+	font-size: 90px;
+}
+#quoteDisplay{
+	text-align: center;
+	font-size: 50px;
+	color: #9E1D66;
+	margin-top: -30px;
+}
+#button{
+	text-align: center;
+}
+#screw{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	text-decoration: none;
+	font-size: 30px;
+	color: white;
+	border: none;
+	background-color: #FEB4D9;
+	margin-top: 20px;
+}
+#screw:hover{
+	color: #9E1D66;
+	cursor: pointer;
+}
+#screw:focus{
+	outline: 0;
 }
