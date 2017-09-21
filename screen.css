@@ -3,9 +3,21 @@
 	
 
 h1{
-	font-size: 50px;
+	font-size: 45px;
 }
 
+#word{
+
+	font-size: 15px;
+	font-weight: bold;
+	color: #9E1D66;
+
+}
+#quoteDisplay{
+	font-size: 10px;
+	
+
+}
 
 
 }
