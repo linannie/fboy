@@ -6,6 +6,12 @@ h1{
 	font-size: 45px;
 }
 
+.word{
+	margin-top: -90px;
+	position: fixed;
+	left: 410px;
+	
+}
 #word{
 
 	font-size: 5px;
@@ -13,8 +19,11 @@ h1{
 	color: #9E1D66;
 
 }
+#he{
+	font-size: 20px;
+}
 #quoteDisplay{
-	font-size: 5px;
+	font-size: 10px;
 	
 
 }
