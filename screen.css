@@ -12,23 +12,29 @@ h1{
 	left: 410px;
 	
 }
+#word, #he, #quoteDisplay, #screw{
+	font-weight: bold;
+}
+
 #word{
 
 	font-size: 5px;
-	font-weight: bold;
 	color: #9E1D66;
 
 }
 #he{
 	font-size: 35px;
+
 }
 #quoteDisplay{
-	font-size: 10px;
-	
+	margin-top: 30px;
+	font-size: 15px;
+
 
 }
 #screw{
-	font-size: 15px;
+	font-size: 20px;
+
 }
 
 
