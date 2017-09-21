@@ -8,15 +8,18 @@ h1{
 
 #word{
 
-	font-size: 15px;
+	font-size: 5px;
 	font-weight: bold;
 	color: #9E1D66;
 
 }
 #quoteDisplay{
-	font-size: 10px;
+	font-size: 5px;
 	
 
+}
+#screw{
+	font-size: 5px;
 }
 
 
