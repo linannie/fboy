@@ -77,7 +77,8 @@ var quotes = [
 	"makes you wait.",
 	"makes you frustrated all the time.",
 	"is trash.",
-	"is toxic."
+	"is toxic.",
+	"is completely irrelevant. Forget him."
 
 
 ]
