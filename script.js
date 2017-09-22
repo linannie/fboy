@@ -50,7 +50,6 @@ var quotes = [
 	"made you just an option, so forget about him.",
 	"is totally not good enough for you.",
 	"is way out of your league.",
-	"only thinks with his 🍆.",
 	"is not that into you.",
 	"is NOT going to make you happy.",
 	"doesn't realize how cool 😎 you are!",
