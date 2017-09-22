@@ -35,10 +35,10 @@ p{
 	line-height: 0px;	
 }
 
-.quote{
+/*.quote{
 	padding-top: 0.5px;
 	
-}
+}*/
 
 #he{
 	text-align: center;
@@ -94,6 +94,7 @@ p{
 }
 footer{
 	text-align: center;
+	
 
 }
 a, #name{
@@ -103,6 +104,52 @@ a, #name{
 
 a, #name:hover{
 	color: #7F1E5F;
+}
+
+
+
+.list{
+	display: inline;
+	font-weight: bold;
+	margin: 5px 5px;
+	font-size: 25px;
+	
+}
+ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+.options{
+	text-align: center;
+}
+
+.list:hover{
+	color: #9E1D66;
+}
+
+/* TIPS PAGE */
+
+#unsure{
+	font-size: 30px;
+	font-weight: bold;
+	color: #9E1D66;
+	text-align: center;
+	margin-top: -50px;
+}
+
+#quiz{
+	padding-top: 30px;
+}
+.ques{
+	text-align: center;
+
+}
+
+.q{
+	font-size: 40px;
+	color: white;
+	font-weight: bold;
 }
 
 
