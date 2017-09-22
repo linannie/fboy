@@ -1,6 +1,12 @@
 /* MOBILE */
 @media screen and (max-width: 481px){
 	
+*{
+	/*border: 1px solid rgba(0, 0, 0, 0.3);*/
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: white;
+
+}
 
 h1{
 	font-size: 45px;

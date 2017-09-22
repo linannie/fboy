@@ -142,7 +142,8 @@ ul{
 	padding-top: 30px;
 }
 .ques{
-	text-align: center;
+	margin-left: 385px;
+	margin-right: 150px;
 
 }
 
@@ -150,6 +151,15 @@ ul{
 	font-size: 40px;
 	color: white;
 	font-weight: bold;
+}
+
+.ul{
+	margin-left: 30px;
+
+}
+.li{
+	text-align: left;
+	font-size: 25px;
 }
 
 
